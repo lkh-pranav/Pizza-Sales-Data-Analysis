@@ -159,7 +159,7 @@ Conduct a comprehensive sales performance analysis for a pizza store using SQL q
    Crafting a data model to facilitate clear comprehension of the interrelationships among datasets.
 
    
-  ![image](https://github.com/lkh-pranav/Pizza-sales-Analysis/assets/165638568/b6fc31a6-ffa8-4c01-bc02-b9dca0fb1d79)
+![image](https://github.com/lkh-pranav/Pizza-Sales-Data-Analysis/assets/165638568/7eaeefcf-4f56-4b7f-b8b9-f045c7db2d46)
 
 
 ## 5. CREATE DATABASE & TABLE STRUCTURE
@@ -168,13 +168,7 @@ Conduct a comprehensive sales performance analysis for a pizza store using SQL q
 
 
    
- ![image](https://github.com/lkh-pranav/Pizza-sales-Analysis/assets/165638568/07069e7e-a58f-4325-b105-afa8390d6db8)
-
-
- ![image](https://github.com/lkh-pranav/Pizza-sales-Analysis/assets/165638568/f6b6ddde-2c83-4be3-ad47-360def5e263d)
-
-
- ![image](https://github.com/lkh-pranav/Pizza-sales-Analysis/assets/165638568/2ec02d90-9833-4298-988d-f281ab7dc79a)
+![image](https://github.com/lkh-pranav/Pizza-Sales-Data-Analysis/assets/165638568/72abff75-1ec5-4f9e-917a-5f93649ac574)  ![image](https://github.com/lkh-pranav/Pizza-Sales-Data-Analysis/assets/165638568/5348f220-e77f-4c3e-a17a-64bf7b3bc05e)  ![image](https://github.com/lkh-pranav/Pizza-Sales-Data-Analysis/assets/165638568/21501095-cec0-408d-ba20-bb39deb4ba35)
 
 
    Importing data into corresponding tables.
@@ -227,8 +221,7 @@ Conduct a comprehensive sales performance analysis for a pizza store using SQL q
    Connecting pizza sales database to Power BI to visualize and analyze the data through interactive dashboards and reports, gaining insights and facilitating informed decision-making.
 
 
-   ![image](https://github.com/lkh-pranav/Pizza-sales-Analysis/assets/165638568/51c9420b-b510-4872-ac73-c476a5179ae1)  ![image](https://github.com/lkh-pranav/Pizza-sales-Analysis/assets/165638568/321be33b-4f2f-40fa-8935-aa3604d5732e)
-  ![image](https://github.com/lkh-pranav/Pizza-sales-Analysis/assets/165638568/749ee963-5a96-495b-97e0-d9cb99a9d386)
+  ![image](https://github.com/lkh-pranav/Pizza-Sales-Data-Analysis/assets/165638568/3b046877-69bc-435d-978e-72e4fd91b5d8)  ![image](https://github.com/lkh-pranav/Pizza-Sales-Data-Analysis/assets/165638568/4c8894c8-c60e-4978-a904-91f23104f896)  ![image](https://github.com/lkh-pranav/Pizza-Sales-Data-Analysis/assets/165638568/f8509f5a-197e-429b-b098-b68cff9c5815)
 
 
 ## 10. DATA TRANSFORMATION
@@ -284,11 +277,10 @@ Conduct a comprehensive sales performance analysis for a pizza store using SQL q
 
 ### Snapshots of Dashboard
 
+![image](https://github.com/lkh-pranav/Pizza-Sales-Data-Analysis/assets/165638568/1ced1037-d398-4a48-9433-74a1b5de94fd)
 
-![image](https://github.com/lkh-pranav/Pizza-sales-Analysis/assets/165638568/8f80d220-b69e-4fbb-8694-9767d7eee04f)
 
-
-![image](https://github.com/lkh-pranav/Pizza-sales-Analysis/assets/165638568/2744c852-daf7-474e-9908-52903cc9230e)
+![image](https://github.com/lkh-pranav/Pizza-Sales-Data-Analysis/assets/165638568/053fb203-ba79-43fe-9ca4-43fed177363e)
 
 
 ## 12. INSIGHTS

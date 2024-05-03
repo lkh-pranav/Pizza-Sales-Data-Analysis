@@ -28,8 +28,7 @@ The Client divided the problem statement into two sections;
        •	Percentage of sales by pizza Category
        •	Percentage of sales by pizza Size
        •	Total pizzas sold by pizza Category
-       •	Top 5 best selling & Bottom 5 worst selling pizzas based on
-           Total - Revenue, Orders & Quantity.
+       •	Top 5 best selling & Bottom 5 worst selling pizzas
 
 
 ## OBJECTIVES

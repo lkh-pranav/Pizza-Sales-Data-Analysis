@@ -218,7 +218,7 @@ Conduct a comprehensive sales performance analysis for a pizza store using SQL q
     •	Percentage of sales by pizza size ?
 
 
-   ### Check out my [SQL Queries for pizza sales data]
+   ### Check out my [SQL Queries for pizza sales data](https://github.com/lkh-pranav/Pizza-Sales-Data-Analysis/blob/main/Pizza_Sales_Queries.sql)
 
 
 ## 9. CONNECTING MySQL DB TO POWER BI

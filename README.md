@@ -168,7 +168,13 @@ Conduct a comprehensive sales performance analysis for a pizza store using SQL q
 
 
    
-![image](https://github.com/lkh-pranav/Pizza-Sales-Data-Analysis/assets/165638568/72abff75-1ec5-4f9e-917a-5f93649ac574)  ![image](https://github.com/lkh-pranav/Pizza-Sales-Data-Analysis/assets/165638568/5348f220-e77f-4c3e-a17a-64bf7b3bc05e)  ![image](https://github.com/lkh-pranav/Pizza-Sales-Data-Analysis/assets/165638568/21501095-cec0-408d-ba20-bb39deb4ba35)
+![image](https://github.com/lkh-pranav/Pizza-Sales-Data-Analysis/assets/165638568/72abff75-1ec5-4f9e-917a-5f93649ac574)
+
+
+![image](https://github.com/lkh-pranav/Pizza-Sales-Data-Analysis/assets/165638568/d196e70f-8954-4793-8656-f097b87488d2)
+
+
+![image](https://github.com/lkh-pranav/Pizza-Sales-Data-Analysis/assets/165638568/21501095-cec0-408d-ba20-bb39deb4ba35)
 
 
    Importing data into corresponding tables.
@@ -221,7 +227,13 @@ Conduct a comprehensive sales performance analysis for a pizza store using SQL q
    Connecting pizza sales database to Power BI to visualize and analyze the data through interactive dashboards and reports, gaining insights and facilitating informed decision-making.
 
 
-  ![image](https://github.com/lkh-pranav/Pizza-Sales-Data-Analysis/assets/165638568/3b046877-69bc-435d-978e-72e4fd91b5d8)  ![image](https://github.com/lkh-pranav/Pizza-Sales-Data-Analysis/assets/165638568/4c8894c8-c60e-4978-a904-91f23104f896)  ![image](https://github.com/lkh-pranav/Pizza-Sales-Data-Analysis/assets/165638568/f8509f5a-197e-429b-b098-b68cff9c5815)
+  ![image](https://github.com/lkh-pranav/Pizza-Sales-Data-Analysis/assets/165638568/3b046877-69bc-435d-978e-72e4fd91b5d8)  
+
+
+  ![image](https://github.com/lkh-pranav/Pizza-Sales-Data-Analysis/assets/165638568/dbfb3482-1351-468f-a1bf-45ab179aa8aa)
+
+  
+  ![image](https://github.com/lkh-pranav/Pizza-Sales-Data-Analysis/assets/165638568/f8509f5a-197e-429b-b098-b68cff9c5815)
 
 
 ## 10. DATA TRANSFORMATION

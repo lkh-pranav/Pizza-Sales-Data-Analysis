@@ -74,6 +74,15 @@ Conduct a comprehensive sales performance analysis for a pizza store using SQL q
 
 ### 2. Data structure
 
+
+    Data type : .csv
+    Tables : 4
+    Fields : 12
+    Records : 48,620
+    Data Span : Jan 2015 - Dec 2015
+    Source : Maven Analytics
+    
+
    #1 ‘pizzas.csv’ dataset
 
 
